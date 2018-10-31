@@ -7,7 +7,7 @@
 ## Custom themes
 
 - base.user.css
-- `theme`.user.css
+- `theme-name`.user.css
   
 
 
