@@ -1,0 +1,21 @@
+.md-rawblock-control:not(.md-rawblock-tooltip) {
+  background: inherit !important;
+}
+
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 600;
+  src: local('NanumGothic'),
+    url(https://fonts.gstatic.com/s/nanumgothic/v13/PN_3Rfi-oW3hYwmKDpxS7F_z-7r_xFtIsPV5MbNOyrVj67GNc972x-dpix2LdhN-iTB6aWWhDX3G.0.woff2)
+      format('woff2');
+}
+
+p {
+  font-family: 'NanumGothic', sans-serif;
+  font-weight: normal;
+}
+
+code {
+  font-size: 1.2rem;
+}
